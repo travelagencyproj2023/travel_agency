@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Travel_Agency</string>
+
+    <string name="btD">DESTINATIONS</string>
+    <string name="btB">BOOK FLIGHT</string>
+    <string name="btL">LOGIN</string>
+    <string name="btC">CONTACT US</string>
+    <string name="btS">SHARE</string>
+    <string-array name="editMenu">
+        <item>Destination</item>
+        <item>Depart</item>
+    </string-array>
+    <string name="destination">Destination Country</string>
+    <string name="departure">Departure</string>
+    <string name="country_prompt">Choose a country</string>
+
+    <string-array name="spinner_arrays1">
+        <item>من الرياض إلى القصيم إلى حائل إلى العلا</item>
+        <item>الجوف إلى تيماء إلى العلا</item>
+        <item>شارما (نيوم) إلى العلا</item>
+        <item>تبوك إلى العلا</item>
+    </string-array>
+</resources>
